@@ -9,3 +9,8 @@ There are a number of key technologies that, if supported by a Wi-Fi adaptor may
 
 ## Command
 ```netsh wlan show all | findstr /c:"Firmware Version" /c:"DOT11k" /c:"Transition" /c:"MU-MIMO" /c:"Spatial Streams" /c:"Management Frames" /c:"Driver                    :" /c:"Vendor  " /c:"Provider" /c:"Date" /c:"Version                   :" /c:"Radio types"```
+
+## Output
+
+
+![alt text]https://github.com/wifiwizardofoz/WinWifiSupport/blob/master/winWifiSupport.PNG?raw=true)
