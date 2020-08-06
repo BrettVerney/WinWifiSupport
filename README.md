@@ -13,4 +13,4 @@ There are a number of key technologies that, if supported by a Wi-Fi adaptor may
 ## Output
 
 
-![alt text]https://github.com/wifiwizardofoz/WinWifiSupport/blob/master/winWifiSupport.PNG?raw=true)
+![alt text]https://github.com/wifiwizardofoz/WinWifiSupport/blob/master/winWifiSupport.PNG)
