@@ -19,4 +19,4 @@ You should see something similar to this:
 ![WinWifiSupport Output](https://github.com/wifiwizardofoz/WinWifiSupport/blob/master/winWifiSupport.PNG)
 
 ## Special Thanks
-@fbinotto - for helping me with the text alignment/columns
+Felipe Binotto(https://github.com/fbinotto) for helping me with the text alignment/columns
