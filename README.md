@@ -12,7 +12,7 @@ If not already, enable PowerShell to run scripts by bypassing the default execut
 ```Set-ExecutionPolicy Bypass -Scope CurrentUser -Force```
 
 Alternatively, you can bypass the execution policy for the current PowerShell session only:<br>
-'''Set-ExecutionPolicy Bypass -Scope Process -Force```
+```Set-ExecutionPolicy Bypass -Scope Process -Force```
 
 Execute the script:<br>
 ```.\WinWifiSupport.ps1```
