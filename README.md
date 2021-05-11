@@ -4,7 +4,7 @@
 A simple Windows PowerShell script to determine a Wi-Fi adaptor's key capabilities
 
 **Author:** Brett Verney</br>
-**Version:** v1.1 | 11-05-2020
+**Version:** v1.1 | 11-05-2021
 
 ## Background
 There are a number of key technologies that, if supported by a Wi-Fi adaptor may be explicitly enabled on the supporting Wi-Fi infrastructure. By filtering through the ```netsh wlan show``` command on a Windows machine, we can find the capabilities of the Wireless adaptor. This script simply finds the data that we need, and applies a little formatting to present it a little nicer.
