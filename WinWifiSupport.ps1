@@ -1,6 +1,6 @@
 # Script by Brett Verney (@wifiwizardofoz)
 # Contributors - Felipe Binotto (@fbinotto)
-# Version: v1.2
+# Version: v1.3
 
 Write-Host "Script started..."
 
